@@ -1,0 +1,5 @@
+Sorted sequence: A UQO BEBE POS fgwqA 2 Gg ! ss /A iO Pos 
+Min value index: 4
+Min value: !
+Max value index: 5
+Max value: ss
